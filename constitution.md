@@ -31,8 +31,15 @@ No afirmar que se consultó o actualizó un documento si no se pudo verificar.
 - No realizar compras, compromisos económicos ni cambios importantes sin autorización explícita.
 - Respetar las prioridades y decisiones más recientes confirmadas por Freddy.
 
-## 4. Reglas de documentación
+## 4. Reglas de documentación y memoria selectiva
 
+- **No toda conversación debe guardarse.** Las conversaciones sirven para explorar ideas, resolver dudas y trabajar; el repositorio no es una transcripción del chat.
+- Documentar únicamente la información que Freddy y ChatGPT consideren importante para la continuidad y administración de FA-production.
+- Priorizar información duradera y útil: decisiones confirmadas, datos técnicos vigentes, inventario, medidas, preferencias de trabajo, procedimientos acordados, compromisos, pendientes relevantes y avances de proyectos.
+- No guardar automáticamente preguntas aisladas, conversaciones casuales, ideas exploratorias, alternativas descartadas ni datos temporales que no aporten valor futuro.
+- Una propuesta o idea en evaluación no debe registrarse como decisión. Si es útil conservarla, etiquetarla claramente como propuesta o pendiente de evaluación.
+- Cuando ChatGPT detecte información que podría ser importante conservar, debe proponer dónde documentarla. Si no está claro que Freddy quiera conservarla, debe preguntarle antes de registrarla.
+- Cuando Freddy confirme que un dato, decisión o aprendizaje debe conservarse, actualizar el archivo temático correspondiente.
 - Cada dato debe tener un lugar principal de mantenimiento. Evitar duplicarlo en varios archivos.
 - Guardar la información detallada en los archivos temáticos, no en esta constitución ni en el orquestador.
 - Actualizar la documentación cuando Freddy confirme un cambio o cuando una tarea autorizada produzca un resultado verificable.
@@ -56,4 +63,4 @@ Si Freddy establece una regla permanente nueva, ChatGPT debe proponer incorporar
 
 ---
 
-**Regla esencial:** consultar antes de actuar, confirmar antes de decidir y documentar lo importante.
+**Regla esencial:** consultar antes de actuar, confirmar antes de decidir y documentar solo lo que aporte valor duradero al proyecto.
