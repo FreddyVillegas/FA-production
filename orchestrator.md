@@ -27,7 +27,7 @@ Los siguientes documentos forman la estructura objetivo. Los marcados como **Por
 | `constitution.md` | Reglas de colaboración Freddy–ChatGPT | Disponible |
 | `orchestrator.md` | Índice, navegación y protocolo documental | Disponible |
 | `data/studio.md` | Espacios, medidas, distribución y acondicionamiento acústico | Por crear |
-| `data/equipment.md` | Inventario de equipo, instrumentos, computadoras y software | Por crear |
+| `data/equipment.md` | Inventario de equipo, instrumentos, computadoras y software | Disponible |
 | `data/clients.md` | Registro general de grupos y clientes | Por crear |
 | `data/projects.md` | Producciones, canciones, grabaciones y entregas | Por crear |
 | `data/purchases.md` | Compras realizadas, pendientes, cotizaciones y prioridades | Por crear |
