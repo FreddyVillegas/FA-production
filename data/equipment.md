@@ -39,6 +39,16 @@ Los siguientes equipos han aparecido en conversaciones previas, pero su disponib
 - No registrar una compra como realizada si solo fue considerada o cotizada.
 - Mantener las especificaciones y el estado del equipo actualizados cuando haya cambios.
 
+
+## 5. Compatibilidad para medición acústica
+
+- **UR22mkII + macOS Catalina 10.15:** utilizar el Yamaha Steinberg USB Driver **2.1.4**, que figura como compatible con macOS 10.15 y con la UR22mkII. No instalar la rama 3.x en Catalina: esa rama está destinada a macOS 11 o posterior.
+  - Página oficial de descargas: https://o.steinberg.net/en/support/downloads_hardware/yamaha_steinberg_usb_driver.html
+- **REW:** la página oficial publica REW V5.31.3 para macOS 10.15–14 como binario universal compatible con Mac Intel y Apple silicon.
+  - Descarga oficial: https://www.roomeqwizard.com/#downloads
+
+**Estado al 2026-10-31:** controlador y REW pendientes de instalar/verificar en el disco nuevo. Las versiones indicadas son referencias de compatibilidad, no confirmación de instalación.
+
 ---
 
 **Nota:** este inventario se irá completando gradualmente. No se asume que todo el equipo mencionado históricamente siga disponible.
