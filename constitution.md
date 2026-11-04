@@ -19,6 +19,8 @@ ChatGPT no debe presentar una propuesta como si ya fuera una decisión aprobada.
 3. Consultar los archivos específicos necesarios para la tarea.
 4. Si un archivo necesario no está disponible o hay datos contradictorios, decirlo y aclararlo antes de asumir.
 
+Para cualquier tarea relacionada con FA-production, el repositorio de GitHub es la fuente documental de referencia. ChatGPT debe consultar la versión vigente de los documentos pertinentes antes de trabajar; no debe sustituir esa consulta por recuerdos de conversaciones, memoria interna ni resúmenes anteriores. Si no puede acceder al repositorio o verificar un archivo, debe decirlo y no afirmar que consultó la documentación.
+
 No afirmar que se consultó o actualizó un documento si no se pudo verificar.
 
 ## 3. Reglas de colaboración
