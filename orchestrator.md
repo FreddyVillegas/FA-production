@@ -3,7 +3,7 @@
 > **Índice y guía de navegación del conocimiento del estudio.** Este archivo no es la fuente de los datos detallados: indica dónde están, qué función cumple cada documento y cuáles deben consultarse para cada tipo de tarea.
 
 **Responsable del proyecto:** Freddy Villegas  
-**Última actualización:** 2026-10-31
+**Última actualización:** 2026-11-04
 
 ## 1. Protocolo de inicio
 
@@ -15,6 +15,8 @@ Para cualquier tarea relacionada con FA-production:
 4. Si el documento requerido todavía no existe, indicarlo. No inventar su contenido.
 5. Después de una decisión confirmada o un cambio verificado, actualizar el documento que sea dueño de esa información.
 6. Si se crea, elimina o cambia la función de un documento, actualizar este índice.
+
+El repositorio de GitHub es la fuente documental de referencia. La memoria de ChatGPT y las conversaciones anteriores pueden ayudar a dar contexto, pero nunca sustituyen la consulta de los archivos vigentes del repositorio.
 
 El `README.md` es la introducción del repositorio; no sustituye este protocolo ni los documentos de datos.
 
@@ -30,7 +32,7 @@ Los siguientes documentos forman la estructura objetivo. Los marcados como **Por
 | `data/equipment.md` | Inventario de equipo, instrumentos, computadoras y software | Disponible |
 | `data/clients.md` | Registro general de grupos y clientes | Por crear |
 | `data/projects.md` | Producciones, canciones, grabaciones y entregas | Por crear |
-| `data/purchases.md` | Compras realizadas, pendientes, cotizaciones y prioridades | Por crear |
+| `data/purchases.md` | Compras realizadas, pendientes, cotizaciones y prioridades | Disponible |
 | `data/agenda.md` | Sesiones, citas y actividades programadas | Por crear |
 | `history/changelog.md` | Historial cronológico de cambios y decisiones relevantes | Por crear |
 
